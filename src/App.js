@@ -1,10 +1,10 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
-    <div>
-      <h1>Leona Ilao</h1>
+    <div className="App">
+      <h1>Leona</h1>
     </div>
   );
 }
